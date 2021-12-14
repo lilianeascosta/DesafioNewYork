@@ -5,7 +5,16 @@ Esse é um projeto sugerido pela SoftGreen para a prática do framework [Svelte]
 
 A seguir, acompanhe as funcionalidades e telas implementadas:
 
+### Tela Inicial
+![Tela Inicial](https://github.com/lilianeascosta/DesafioNewYork/blob/main/prints/tela_inicial.png?raw=true)
 
+### Tela após login com êxito
+![Tela Success](https://github.com/lilianeascosta/DesafioNewYork/blob/main/prints/tela_success.png?raw=true)
+
+### Tela após login sem êxito
+![Tela Success](https://github.com/lilianeascosta/DesafioNewYork/blob/main/prints/tela_unsuccess.png?raw=true)
+
+## Também foi implementado a responsividade da aplicação, veja a seguir:
 ```bash
 npx degit sveltejs/template svelte-app
 cd svelte-app
