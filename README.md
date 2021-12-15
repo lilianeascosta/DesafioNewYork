@@ -1,15 +1,20 @@
-*Psst — looking for a more complete solution? Check out [SvelteKit](https://kit.svelte.dev), the official framework for building web applications of all sizes, with a beautiful development experience and flexible filesystem-based routing.*
 
-*Looking for a shareable component template instead? You can [use SvelteKit for that as well](https://kit.svelte.dev/docs#packaging) or the older [sveltejs/component-template](https://github.com/sveltejs/component-template)*
+# Desafio New York
 
----
+Esse é um projeto sugerido pela SoftGreen para a prática do framework [Svelte](https://svelte.dev), através da criação de uma tela de login utilizando uma API da própria empresa.
 
-# svelte app
+A seguir, acompanhe as funcionalidades e telas implementadas:
 
-This is a project template for [Svelte](https://svelte.dev) apps. It lives at https://github.com/sveltejs/template.
+### Tela Inicial
+![Tela Inicial](https://github.com/lilianeascosta/DesafioNewYork/blob/main/prints/tela_inicial.png?raw=true)
 
-To create a new project based on this template using [degit](https://github.com/Rich-Harris/degit):
+### Tela após login com êxito
+![Tela Success](https://github.com/lilianeascosta/DesafioNewYork/blob/main/prints/tela_success.png?raw=true)
 
+### Tela após login sem êxito
+![Tela Success](https://github.com/lilianeascosta/DesafioNewYork/blob/main/prints/tela_unsuccess.png?raw=true)
+
+## Também foi implementado a responsividade da aplicação, veja a seguir:
 ```bash
 npx degit sveltejs/template svelte-app
 cd svelte-app
